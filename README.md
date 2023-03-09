@@ -1,7 +1,7 @@
 # chatAlfred
 ChatGPT API with alfred
 
-just type `\\chat`
+__Just type in `\\chat`__
 
 ## demo
 ![](images/chatAlfred.gif)
