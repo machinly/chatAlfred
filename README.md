@@ -1,7 +1,7 @@
 # chatAlfred
 ChatGPT API with alfred
 
-## demon
+## demo
 ![](images/chatAlfred.gif)
 
 ## First of all
